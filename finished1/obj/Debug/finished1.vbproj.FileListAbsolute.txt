@@ -1,0 +1,248 @@
+C:\Users\322807470\source\repos\finished1\finished1\bin\finished1.dll.config
+C:\Users\322807470\source\repos\finished1\finished1\bin\finished1.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\finished1.pdb
+C:\Users\322807470\source\repos\finished1\finished1\bin\finished1.xml
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\csc.exe
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\csc.exe.config
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\csc.rsp
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\csi.exe
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\csi.exe.config
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\csi.rsp
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.AppContext.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Console.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.IO.Compression.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Security.Claims.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.ValueTuple.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\vbc.exe
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\vbc.exe.config
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\vbc.rsp
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\VBCSCompiler.exe
+C:\Users\322807470\source\repos\finished1\finished1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\322807470\source\repos\finished1\finished1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\322807470\source\repos\finished1\finished1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\322807470\source\repos\finished1\finished1\obj\Debug\finished1.vbprojAssemblyReference.cache
+C:\Users\322807470\source\repos\finished1\finished1\obj\Debug\finished1.Resources.resources
+C:\Users\322807470\source\repos\finished1\finished1\obj\Debug\finished1.vbproj.GenerateResource.cache
+C:\Users\322807470\source\repos\finished1\finished1\obj\Debug\finished1.vbproj.CoreCompileInputs.cache
+C:\Users\322807470\source\repos\finished1\finished1\obj\Debug\finished1.vbproj.CopyComplete
+C:\Users\322807470\source\repos\finished1\finished1\obj\Debug\finished1.dll
+C:\Users\322807470\source\repos\finished1\finished1\obj\Debug\finished1.xml
+C:\Users\322807470\source\repos\finished1\finished1\obj\Debug\finished1.pdb
+M:\java script\liberali\finished1\bin\finished1.dll.config
+M:\java script\liberali\finished1\bin\finished1.dll
+M:\java script\liberali\finished1\bin\finished1.pdb
+M:\java script\liberali\finished1\bin\finished1.xml
+M:\java script\liberali\finished1\bin\roslyn\csc.exe
+M:\java script\liberali\finished1\bin\roslyn\csc.exe.config
+M:\java script\liberali\finished1\bin\roslyn\csc.rsp
+M:\java script\liberali\finished1\bin\roslyn\csi.exe
+M:\java script\liberali\finished1\bin\roslyn\csi.exe.config
+M:\java script\liberali\finished1\bin\roslyn\csi.rsp
+M:\java script\liberali\finished1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\java script\liberali\finished1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\java script\liberali\finished1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\java script\liberali\finished1\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\java script\liberali\finished1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\java script\liberali\finished1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\java script\liberali\finished1\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\java script\liberali\finished1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\java script\liberali\finished1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\java script\liberali\finished1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\java script\liberali\finished1\bin\roslyn\Microsoft.Win32.Primitives.dll
+M:\java script\liberali\finished1\bin\roslyn\System.AppContext.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Collections.Immutable.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Console.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Diagnostics.Process.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\java script\liberali\finished1\bin\roslyn\System.IO.Compression.dll
+M:\java script\liberali\finished1\bin\roslyn\System.IO.FileSystem.dll
+M:\java script\liberali\finished1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+M:\java script\liberali\finished1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\java script\liberali\finished1\bin\roslyn\System.IO.Pipes.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Reflection.Metadata.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Security.AccessControl.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Security.Claims.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Security.Principal.Windows.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Threading.Thread.dll
+M:\java script\liberali\finished1\bin\roslyn\System.ValueTuple.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Xml.ReaderWriter.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Xml.XmlDocument.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Xml.XPath.dll
+M:\java script\liberali\finished1\bin\roslyn\System.Xml.XPath.XDocument.dll
+M:\java script\liberali\finished1\bin\roslyn\vbc.exe
+M:\java script\liberali\finished1\bin\roslyn\vbc.exe.config
+M:\java script\liberali\finished1\bin\roslyn\vbc.rsp
+M:\java script\liberali\finished1\bin\roslyn\VBCSCompiler.exe
+M:\java script\liberali\finished1\bin\roslyn\VBCSCompiler.exe.config
+M:\java script\liberali\finished1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\java script\liberali\finished1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\java script\liberali\finished1\obj\Debug\finished1.vbprojAssemblyReference.cache
+M:\java script\liberali\finished1\obj\Debug\finished1.Resources.resources
+M:\java script\liberali\finished1\obj\Debug\finished1.vbproj.GenerateResource.cache
+M:\java script\liberali\finished1\obj\Debug\finished1.vbproj.CoreCompileInputs.cache
+M:\java script\liberali\finished1\obj\Debug\finished1.vbproj.CopyComplete
+M:\java script\liberali\finished1\obj\Debug\finished1.dll
+M:\java script\liberali\finished1\obj\Debug\finished1.xml
+M:\java script\liberali\finished1\obj\Debug\finished1.pdb
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\finished1.dll.config
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\finished1.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\finished1.pdb
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\finished1.xml
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\csc.exe
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\csc.exe.config
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\csc.rsp
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\csi.exe
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\csi.exe.config
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\csi.rsp
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.AppContext.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Console.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\vbc.exe
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\vbc.exe.config
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\vbc.rsp
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\obj\Debug\finished1.vbprojAssemblyReference.cache
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\obj\Debug\finished1.Resources.resources
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\obj\Debug\finished1.vbproj.GenerateResource.cache
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\obj\Debug\finished1.vbproj.CoreCompileInputs.cache
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\obj\Debug\finished1.vbproj.CopyComplete
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\obj\Debug\finished1.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\obj\Debug\finished1.xml
+C:\Users\Rachel\תמונות\Pictures\מיכל2\liberali\finished1\obj\Debug\finished1.pdb
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\finished1.dll.config
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\finished1.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\finished1.pdb
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\finished1.xml
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\csc.exe
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\csc.exe.config
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\csc.rsp
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\csi.exe
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\csi.exe.config
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\csi.rsp
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.AppContext.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Console.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\vbc.exe
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\vbc.exe.config
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\vbc.rsp
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\obj\Debug\finished1.vbprojAssemblyReference.cache
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\obj\Debug\finished1.Resources.resources
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\obj\Debug\finished1.vbproj.GenerateResource.cache
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\obj\Debug\finished1.vbproj.CoreCompileInputs.cache
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\obj\Debug\finished1.vbproj.CopyComplete
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\obj\Debug\finished1.dll
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\obj\Debug\finished1.xml
+C:\Users\Rachel\תמונות\Pictures\מיכל2\perfectted1\finished1\obj\Debug\finished1.pdb

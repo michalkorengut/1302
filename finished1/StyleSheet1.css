@@ -1,0 +1,31 @@
+﻿body {
+    background-color: #000000;
+ 
+    background-image: url('IMG_7912.JPG');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    font-family: 'Berlin Sans FB';
+    color: #ff0000;
+    text-align: center;
+    font-size: x-large;
+}
+
+#BtnNext {
+    background-color: #550953;
+    color: #ff0000;
+    font-family: 'Berlin Sans FB';
+    font-size: 30px;
+}
+
+#check {
+    font-size: 40px;
+    color: #ff0000;
+    font-family: 'Gan CLM';
+}
+
+marquee {
+    text-emphasis: dot;
+    font-size: 50px;
+    font-family: Hobo Std;
+}

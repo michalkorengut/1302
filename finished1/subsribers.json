@@ -1,0 +1,25 @@
+[{
+  "subscriberDetails" : {
+  "subscribeName":"Sara Cohen",
+  "subscribePassword":"123456"},
+  "MaxBooks":5,
+  "Books":[],
+  "HistoryBooks":[]
+},
+{
+  "subscriberDetails" : {
+  "subscribeName":"Miryam Levi",
+  "subscribePassword":"654321"},
+  "MaxBooks":3,
+  "Books":[],
+  "HistoryBooks":[]
+},
+{
+  "subscriberDetails" : {
+  "subscribeName":"Shoshana Katz",
+  "subscribePassword":"2222222"},
+  "MaxBooks":3,
+  "Books":[],
+  "HistoryBooks":[]
+}
+]

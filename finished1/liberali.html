@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="StyleSheet2.css" rel="stylesheet" />
+    <script src="classes.js"></script>
+
+</head>
+<body onload="tables()">
+    <a href="HomePage.html">HomePage.html</a>
+    <br /><br /><br />
+                <marquee> "נשמח לעמוד לצידך בכל עת" </marquee>
+    <div id="hello"></div>
+    <label>Search</label>
+    <input type="text" id="search" placeholder="Enter name of book" /><br />
+    <label>The books you lended</label>
+
+</body>
+</html>
+<script>
+    function tables() {
+        user_books(man);
+        libraryBooks(library.a.books());
+    }
+
+    var g = JSON.parse(localStorage.getItem("manuy"));
+    var man = new subscriber(g.subscriberDetails.subscribePassword, g.subscriberDetails.subscribeName, g.MaxBooks, g.Books);
+    var library = {
+        a: (function () {
+            var date = new Intl.DateTimeFormat("he-IL");
+            books = [new historyBook(1, "ארץ רעשה", "לאה איזנשטיין", " ", "2000", 4, "מלחמות העולם", "אירופה"),
+                new recipiesBook(2, "טעימות מתוקות", "בינה רוזנבאוים", " ", "2019", 100, "מנות אחרונות שוות", "20-120"),
+                new recipiesBook(3, "הכנה למטבח", "שושי מייזליק", " ", "1976", 10, "בישול", "5-15")];
+            getBooks = function () { return books },
+                numOfBooks = function (category) { return category.count }
+            return { books: getBooks, numOfBooks: numOfBooks };
+        })()
+    };
+
+    var h = "hello";
+    var a = " ";
+    var res = h.concat(a);
+    document.getElementById("hello").textContent =res+ g.subscriberDetails.subscribeName;
+
+    function user_books(manuy) {
+        var arr = ["id", "name", "auther", "isAvailable", "date", "publishedYear", "numOfLending", "count", "moreDetails"];
+        var tab = document.createElement("table");
+        var tr = document.createElement("tr");
+        for (var j in manuy.booksLended[0]) {
+            var td = document.createElement("td");
+
+            td.innerHTML = j;
+            tr.appendChild(td);
+        }
+        tab.appendChild(tr);
+
+
+        for (let i in manuy.booksLended) {
+            var tr = document.createElement("tr");
+
+            for (var j in manuy.booksLended[i]) {
+                var td = document.createElement("td");
+                td.innerHTML = manuy.booksLended[i][j];
+
+                tr.appendChild(td);
+            }
+            tab.appendChild(tr);
+            var td = document.createElement("td");
+
+            var btn = document.createElement("input");
+            btn.setAttribute("type", "button");
+            btn.setAttribute("value", "return");
+            btn.addEventListener("click",
+                function () {
+                    manuy.returnMyBook(manuy.booksLended[i]);
+                    document.body.removeChild(document.getElementsByTagName("table")[0]);
+                    document.body.removeChild(document.getElementsByTagName("table")[0]);
+                    user_books(man);
+                    libraryBooks(library.a.books());
+                }
+                , true)
+            td.appendChild(btn);
+            tr.appendChild(td);
+            tab.appendChild(tr);
+        }
+
+        document.body.appendChild(tab);
+    }
+
+    function libraryBooks(arr) {
+        let array_books = arr;
+        var lab = document.createElement("lable");
+        lab.style.setProperty("value", "the books you lended");
+        var tab = document.createElement("table");
+
+
+        var tr = document.createElement("tr");
+        for (var j in array_books[0]) {
+            var td = document.createElement("td");
+            td.innerHTML = j;
+
+
+            tr.appendChild(td);
+        }
+        tab.appendChild(tr);
+
+        for (let i in array_books) {
+            var tr = document.createElement("tr");
+            for (var j in array_books[i]) {
+                var td = document.createElement("td");
+                td.innerHTML = array_books[i][j];
+
+                tr.appendChild(td);
+            }
+            var td = document.createElement("td");
+            td.style.setProperty("border", "solid");
+            var btn = document.createElement("input");
+            btn.setAttribute("type", "button");
+            btn.setAttribute("value", "lend");
+            btn.addEventListener("click",
+                function () {
+                    man.addBook(array_books[i]);
+                    document.body.removeChild(document.getElementsByTagName("table")[0]);
+                    document.body.removeChild(document.getElementsByTagName("table")[0]);
+                    user_books(man);
+                    libraryBooks(library.a.books());
+                }
+                , true)
+            td.appendChild(btn);
+            tr.appendChild(td);
+            tab.appendChild(tr);
+        }
+        document.body.appendChild(tab);
+    }
+    var arraySearchBook = library.a.books();
+
+    document.getElementById("search").addEventListener("keyup",
+        function () {
+            var searchTbl = document.getElementsByTagName("table")[1]
+            document.body.removeChild(searchTbl);
+            var searchInput = document.getElementById("search").value;
+            libraryBooks(arraySearchBook.filter(a => a.name.startsWith(searchInput)));
+        }
+        , true)
+</script>
